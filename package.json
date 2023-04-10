@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alexmarinmendez/51230-clase-7-webserver/issues"
   },
-  "homepage": "https://github.com/alexmarinmendez/51230-clase-7-webserver#readme"
+  "homepage": "https://github.com/alexmarinmendez/51230-clase-7-webserver#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
